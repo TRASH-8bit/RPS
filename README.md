@@ -2,7 +2,7 @@
 
 # A simple Rock , Paper and Scissors A.I 
 
-website-link : 
+website-link : https://lucykm.github.io/RPS
 
 language-used : Html 
                 Css
